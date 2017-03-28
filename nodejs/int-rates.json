@@ -1,0 +1,336 @@
+{
+  "hdfc": [
+    {
+      "DatesStart": 7,
+      "DatesEnd": 14,
+      "normal": "3.50%",
+      "senior": "4.00%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 15,
+      "DatesEnd": 29,
+      "normal": "4.25%",
+      "senior": "4.75%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 30,
+      "DatesEnd": 45,
+      "normal": "5.50%",
+      "senior": "6.00%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 46,
+      "DatesEnd": 60,
+      "normal": "5.75%",
+      "senior": "6.25%",
+      "normal_C": "4.50%",
+      "senior_C": "5.00%"
+    },
+    {
+      "DatesStart": 61,
+      "DatesEnd": 90,
+      "normal": "5.75%",
+      "senior": "6.25%",
+      "normal_C": "4.50%",
+      "senior_C": "5.00%"
+    },
+    {
+      "DatesStart": 91,
+      "DatesEnd": 180,
+      "normal": "5.75%",
+      "senior": "6.25%",
+      "normal_C": "4.50%",
+      "senior_C": "5.00%"
+    },
+    {
+      "DatesStart": 181,
+      "DatesEnd": 195,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.75%",
+      "senior_C": "5.25%"
+    },
+    {
+      "DatesStart": 196,
+      "DatesEnd": 196,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.75%",
+      "senior_C": "5.25%"
+    },
+    {
+      "DatesStart": 197,
+      "DatesEnd": 285,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.75%",
+      "senior_C": "5.25%"
+    },
+    {
+      "DatesStart": 286,
+      "DatesEnd": 286,
+      "normal": "6.25%",
+      "senior": "6.75%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 287,
+      "DatesEnd": 365,
+      "normal": "6.25%",
+      "senior": "6.75%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 365,
+      "DatesEnd": 365,
+      "normal": "6.90%",
+      "senior": "7.40%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 366,
+      "DatesEnd": 368,
+      "normal": "6.95%",
+      "senior": "7.45%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 369,
+      "DatesEnd": 369,
+      "normal": "6.25%",
+      "senior": "6.75%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 370,
+      "DatesEnd": 380,
+      "normal": "6.25%",
+      "senior": "6.75%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 381,
+      "DatesEnd": 381,
+      "normal": "6.25%",
+      "senior": "6.75%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 382,
+      "DatesEnd": 730,
+      "normal": "6.25%",
+      "senior": "6.75%",
+      "normal_C": "5.00%",
+      "senior_C": "5.50%"
+    },
+    {
+      "DatesStart": 731,
+      "DatesEnd": 745,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 746,
+      "DatesEnd": 746,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 747,
+      "DatesEnd": 1095,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 1096,
+      "DatesEnd": 1825,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 1826,
+      "DatesEnd": 2920,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    },
+    {
+      "DatesStart": 2921,
+      "DatesEnd": 3650,
+      "normal": "6.00%",
+      "senior": "6.50%",
+      "normal_C": "4.25%",
+      "senior_C": "4.75%"
+    }
+  ],
+  "sbi": [
+    {
+      "DatesStart": 7,
+      "DatesEnd": 45,
+      "normal": "5.50%",
+      "senior": "6.00%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 46,
+      "DatesEnd": 179,
+      "normal": "6.50%",
+      "senior": "7.00%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 180,
+      "DatesEnd": 210,
+      "normal": "6.75%",
+      "senior": "7.25%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 211,
+      "DatesEnd": 364,
+      "normal": "7.00%",
+      "senior": "7.50%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 365,
+      "DatesEnd": 455,
+      "normal": "6.90%",
+      "senior": "7.40%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 456,
+      "DatesEnd": 729,
+      "normal": "6.95%",
+      "senior": "7.45%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 730,
+      "DatesEnd": 1094,
+      "normal": "6.85%",
+      "senior": "7.35%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 1095,
+      "DatesEnd": 3650,
+      "normal": "6.50%",
+      "senior": "7.00%",
+      "normal_C": "",
+      "senior_C": ""
+    }
+  ],
+  "canara": [
+    {
+      "DatesStart": 7,
+      "DatesEnd": 14,
+      "normal": "4.00%",
+      "senior": "4.50%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 15,
+      "DatesEnd": 29,
+      "normal": "4.25%",
+      "senior": "4.75%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 30,
+      "DatesEnd": 45,
+      "normal": "5.50%",
+      "senior": "6.00%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 46,
+      "DatesEnd": 60,
+      "normal": "5.75%",
+      "senior": "6.25%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 61,
+      "DatesEnd": 289,
+      "normal": "6.25%",
+      "senior": "6.75%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 290,
+      "DatesEnd": 364,
+      "normal": "6.50%",
+      "senior": "7.00%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 365,
+      "DatesEnd": 389,
+      "normal": "6.90%",
+      "senior": "7.40%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 390,
+      "DatesEnd": 730,
+      "normal": "7.00%",
+      "senior": "7.50%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 731,
+      "DatesEnd": 1825,
+      "normal": "6.75%",
+      "senior": "7.25%",
+      "normal_C": "",
+      "senior_C": ""
+    },
+    {
+      "DatesStart": 1826,
+      "DatesEnd": 3650,
+      "normal": "6.50%",
+      "senior": "7.00%",
+      "normal_C": "",
+      "senior_C": ""
+    }
+  ]
+}

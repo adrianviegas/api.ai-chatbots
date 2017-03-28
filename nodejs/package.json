@@ -1,0 +1,17 @@
+{
+  "name": "interest-rate-bot",
+  "version": "1.0.0",
+  "description": "Nodejs implementation for api.ai chatbot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "author": "Adrian Viegas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "request": "^2.81.0"
+  }
+}
